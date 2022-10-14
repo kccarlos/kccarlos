@@ -21,7 +21,7 @@
 
 📫 To reach me
   - Email: kccarlos DOT an AT gmail DOT com
-  - LinkedIn: https://www.linkedin.com/in/kecheng-an/
+  - LinkedIn Handle: kecheng-an
 
 <!---
 kccarlos/kccarlos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
