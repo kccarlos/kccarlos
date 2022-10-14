@@ -15,7 +15,7 @@
 
 
 - TL:DR? Checkout some interesting videos and demos of my past projects:
-  -  [YouTube](https://www.youtube.com/watch?v=cyI9E) Computer vision project demo I have worked for in an intership (Python, PyTorch, OpenCV, C++)
+  -  [YouTube](https://youtu.be/K9hXff5DaKw?t=114) Computer vision project demo I have worked for in an intership (Python, PyTorch, OpenCV, C++)
   -  [YouTube](https://www.youtube.com/watch?v=cyI9EGP4aqU) Presentation of My Master thesis at UBiComp: Smartphone-based viscosity measurement for dysphagia patients (Python, PyTorch)
   -  [PowerPoint Online](https://hkustconnect-my.sharepoint.com/:p:/g/personal/kanaa_connect_ust_hk/EVHqF_P4IntBnf5csz6GxDoBnV6f3PF6o7RQ_C8T50eLiw?e=JBYd5P) Web Crawler for Shared-Bike Utilization Analysis (Python, SQL, scikit-learn)
 
