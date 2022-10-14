@@ -1,8 +1,8 @@
 👋 Hi, I’m @kccarlos
 
-👀 I’m interested in full-stack development & web security and computer vision. 
+I’m interested in full-stack development & web security and computer vision. 
 
-💞️ I’m actively seeking internship opportunities for 2023 summer
+I’m actively seeking internship opportunities for 2023 summer
 
 - Talk is cheap. Show me the code:
    - [GitHub](https://github.com/kccarlos/music_webapp_backend) (Java Spring, MySQL) Java Spring for a music platform. [API Doc](https://github.com/kccarlos/music_webapp_backend/blob/main/API%20docs.pdf)
@@ -20,7 +20,7 @@
   -  [PowerPoint Online](https://hkustconnect-my.sharepoint.com/:p:/g/personal/kanaa_connect_ust_hk/EVHqF_P4IntBnf5csz6GxDoBnV6f3PF6o7RQ_C8T50eLiw?e=JBYd5P) Web Crawler for Shared-Bike Utilization Analysis (Python, SQL, scikit-learn)
 
 
-📫 To reach me
+To reach me
   - Email: kccarlos DOT an AT gmail DOT com
   - LinkedIn Handle: kecheng-an
 
