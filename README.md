@@ -7,7 +7,6 @@
 - Talk is cheap. Show me the code:
    - [GitHub](https://github.com/kccarlos/music_webapp_backend) (Java Spring, MySQL) Java Spring for a music platform. [API Doc](https://github.com/kccarlos/music_webapp_backend/blob/main/API%20docs.pdf)
    - [GitHub](https://github.com/kccarlos/fullstack-course) (AngularJS, HTML, CSS) JHU Front-end development coursework 
-   - [GitHub](https://github.com/kccarlos/music_webapp_backend) (JavaScript, HTML/CSS, Node.JS, Express, Socket.IO) Multi-person Web Cheese Game 
    - [GitHub](https://github.com/kccarlos/googlexssgame) (Flask, HTML, JavaScript) Solutions and patches for Google XSS Game
    - [GitHub](https://github.com/kccarlos/myBookList) (AngularJS, Bootstrap, HTML/CSS, Python Flask, SQLite) Personal Booklist Web App 
    - [GitHub](https://github.com/kccarlos/forestgame) (Java) OOP Coursework - Commandline forest game 
