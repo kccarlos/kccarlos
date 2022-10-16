@@ -1,6 +1,6 @@
-👋 Hi, I’m @kccarlos
+👋 Hi!
 
-I’m interested in full-stack development & web security and computer vision. 
+My name is Kecheng. I received my BEng from the Hong Kong Polytechnic University and MPhil in Computer Science and Engineering from the Hong Kong University of Science and Technology. I am pursuing a M.S.E in Computer Science degree at Johns Hopkins University since fall 2022. I’m interested in full-stack development & web security and computer vision. 
 
 - Talk is cheap. Show me the code:
    - [GitHub](https://github.com/kccarlos/music_webapp_backend) (Java Spring, MySQL) Java Spring for a music platform. [API Doc](https://github.com/kccarlos/music_webapp_backend/blob/main/API%20docs.pdf)
@@ -18,11 +18,6 @@ I’m interested in full-stack development & web security and computer vision.
   -  [PowerPoint Online](https://hkustconnect-my.sharepoint.com/:p:/g/personal/kanaa_connect_ust_hk/EVHqF_P4IntBnf5csz6GxDoBnV6f3PF6o7RQ_C8T50eLiw?e=JBYd5P) Web Crawler for Shared-Bike Utilization Analysis (Python, SQL, scikit-learn)
 
 
-To reach me
+Feel free to contact me via
   - Email: kccarlos DOT an AT gmail DOT com
   - LinkedIn Handle: kecheng-an
-
-<!---
-kccarlos/kccarlos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
