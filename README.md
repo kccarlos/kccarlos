@@ -1,6 +1,6 @@
 👋 Hi!
 
-My name is Kecheng. I received my BEng from the Hong Kong Polytechnic University and MPhil in Computer Science and Engineering from the Hong Kong University of Science and Technology. I am pursuing a M.S.E in Computer Science degree at Johns Hopkins University since fall 2022. I’m interested in full-stack development & web security and computer vision. 
+My name is Kecheng. I have been pursuing M.S.E in Computer Science degree at Johns Hopkins University since fall 2022. I received my BEng from the Hong Kong Polytechnic University and MPhil in Computer Science and Engineering from the Hong Kong University of Science and Technology. I’m interested in full-stack development & web security and computer vision. 
 
 - Talk is cheap. Show me the code:
    - [GitHub](https://github.com/kccarlos/music_webapp_backend) (Java Spring, MySQL) Java Spring for a music platform. [API Doc](https://github.com/kccarlos/music_webapp_backend/blob/main/API%20docs.pdf)
