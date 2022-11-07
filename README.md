@@ -1,4 +1,4 @@
-# 👋 Hi! I'm KC
+# Hi! I'm KC 👋 
 
 I have been pursuing M.S.E in Computer Science at [JHU](https://www.jhu.edu/) since the fall of 2022. 
 
@@ -24,7 +24,6 @@ Here is my [Resume](https://docs.google.com/document/d/e/2PACX-1vSroWWC82XscTtjC
    - [GitHub](https://github.com/kccarlos/prototypepollutionpatching) | [Blog post](https://kccarlos.github.io/2022/11/06/Prototype-Pollution-Example-Exploit-and-Patching/) `JavaScript`, `Node.js` Prototype Pollution Exploit and Patch Example
    - More projects are coming soon!
 
-🌐 How to find me on the 🌐
-  - 
+### How to find me on the 🌐
   [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/kecheng-an)
 &nbsp; 📧 Email: kccarlos DOT an AT gmail DOT com
