@@ -4,7 +4,7 @@ I have been pursuing M.S.E in Computer Science at [JHU](https://www.jhu.edu/) si
 
 Previously, I received BEng from [HK PolyU](https://www.polyu.edu.hk/) and MPhil in Computer Science and Engineering from [HKUST](https://hkust.edu.hk/). I’m interested in full-stack development, computer vision, and web security.
 
-Here is my [Resume](https://docs.google.com/document/d/e/2PACX-1vSroWWC82XscTtjCT32T9kKbY7dTutohe3CySWeHqlCBpZsV0SDQvsAmNI_kAPiqrn-FMdkBBdG4UwO/pub) and some of my projects: 
+Here is my [Resume](https://docs.google.com/document/d/e/2PACX-1vSroWWC82XscTtjCT32T9kKbY7dTutohe3CySWeHqlCBpZsV0SDQvsAmNI_kAPiqrn-FMdkBBdG4UwO/pub) and my [blog](https://kccarlos.github.io/). Some of my projects:
 
 ## 👨‍💻 Full Stack Development
    - [GitHub](https://github.com/kccarlos/music_webapp_backend) | [API Doc](https://github.com/kccarlos/music_webapp_backend/blob/main/API%20docs.pdf) `Java`, `Springboot`, `MySQL` Java Spring for a music platform. 
