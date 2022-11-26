@@ -25,5 +25,4 @@ Here is my [Resume](https://docs.google.com/document/d/e/2PACX-1vSroWWC82XscTtjC
    - More projects are coming soon!
 
 ### How to find me on the 🌐
-  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/kecheng-an)
-&nbsp; 📧 Email: kccarlos DOT an AT gmail DOT com
+  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/kecheng-an/); 📧 Email: kccarlos DOT an AT gmail DOT com
