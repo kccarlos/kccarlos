@@ -7,7 +7,7 @@ Previously, I received BEng from [HK PolyU](https://www.polyu.edu.hk/) and MPhil
 Here is my [Resume](https://docs.google.com/document/d/e/2PACX-1vSroWWC82XscTtjCT32T9kKbY7dTutohe3CySWeHqlCBpZsV0SDQvsAmNI_kAPiqrn-FMdkBBdG4UwO/pub) and my [blog](https://kccarlos.github.io/). Some of my projects:
 
 ## 👨‍💻 Full Stack Development
-   - [Demo Website](http://ejay.online) `MongoDB`, `Express.JS`, `React`, `Node.JS` (MERN stack) JHU Used Items Trading Platform. 
+   - [GitHub](https://github.com/kccarlos/ejayclient) `MongoDB`, `Express.JS`, `React`, `Node.JS` (MERN stack) JHU Used Items Trading Platform. 
    - [GitHub](https://github.com/kccarlos/music_webapp_backend) | [API Doc](https://github.com/kccarlos/music_webapp_backend/blob/main/API%20docs.pdf) `Java`, `Springboot`, `MySQL` Java Spring for a music platform. 
    - [GitHub](https://github.com/kccarlos/fullstack-course) `AngularJS`, `HTML`, `CSS` JHU Front-end development coursework 
   - [GitHub](https://github.com/kccarlos/web-chess-game) `JavaScript`, `Node.JS`, `Express`, `Socket.IO` Multi-person Web Cheese Game 
