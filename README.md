@@ -24,7 +24,7 @@ Here is my [Resume](https://docs.google.com/document/d/e/2PACX-1vRT9N9khNKOgk8Ev
 ## 😈 Web Security
    - [GitHub](https://github.com/kccarlos/googlexssgame) | [Blog post](https://kccarlos.github.io/2022/10/15/Cracking-and-Patching-the-Google-XSS-Game/) `Flask`, `HTML`, `JavaScript` Solutions and patches for Google XSS Game
    - [GitHub](https://github.com/kccarlos/prototypepollutionpatching) | [Blog post](https://kccarlos.github.io/2022/11/06/Prototype-Pollution-Example-Exploit-and-Patching/) `JavaScript`, `Node.js` Prototype Pollution Exploit and Patch Example
-   - [GitHub)(https://github.com/kccarlos/chrome-extension-for-tabnabbing) `JavaScript` Chrome extension for Detecting Websites' Tabnabbing
+   - [GitHub](https://github.com/kccarlos/chrome-extension-for-tabnabbing) `JavaScript` Chrome extension for Detecting Websites' Tabnabbing
 
 ### How to find me on the 🌐
   [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/kecheng-an/); 📧 Email: kccarlos DOT an AT gmail DOT com
