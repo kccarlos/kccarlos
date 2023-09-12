@@ -4,12 +4,12 @@ I have been pursuing M.S.E in Computer Science at [JHU](https://www.jhu.edu/) si
 
 Previously, I received BEng from [HK PolyU](https://www.polyu.edu.hk/) and MPhil in Computer Science and Engineering from [HKUST](https://hkust.edu.hk/). I’m interested in full-stack development, computer vision, and web security.
 
-Here is my [Resume](https://docs.google.com/document/d/e/2PACX-1vSeRVpe7KasrfrW42hrUDTul4KCvhzWah4FGa6BgP6K1kbmXUyWIlQuWOOWfMzharLju19ZKOnajhyY/pub). Some of my projects:
+Here is my [Resume](https://docs.google.com/document/d/e/2PACX-1vRT9N9khNKOgk8EvqhV0-yeoi0C9WOjTHptLPeU34LwF0iiZpjVlXG9-0EGuLMo5si2rAdjso6eA3T5/pub). Some of my projects:
 
 ## 👨‍💻 Full Stack Development
-   - [GitHub](https://github.com/kccarlos/ejayclient) `MongoDB`, `Express.JS`, `React`, `Node.JS` (MERN stack) JHU Used Items Trading Platform. 
-   - [GitHub](https://github.com/kccarlos/music_webapp_backend) | [API Doc](https://github.com/kccarlos/music_webapp_backend/blob/main/API%20docs.pdf) `Java`, `Springboot`, `MySQL` Java Spring for a music platform. 
-   - [GitHub](https://github.com/kccarlos/fullstack-course) `AngularJS`, `HTML`, `CSS` JHU Front-end development coursework 
+   - [GitHub](https://github.com/kccarlos/eJay) `MongoDB`, `Express.JS`, `React`, `Node.JS` (MERN stack) JHU Used Items Trading Platform
+   - [GitHub](https://github.com/kccarlos/music_webapp_backend) | [API Doc](https://github.com/kccarlos/music_webapp_backend/blob/main/API%20docs.pdf) `Java`, `Springboot`, `MySQL` Backend for an indie music platform
+   - [GitHub](https://github.com/kccarlos/fullstack-course) `AngularJS`, `HTML`, `CSS` JHU Front-end development coursework
   - [GitHub](https://github.com/kccarlos/web-chess-game) `JavaScript`, `Node.JS`, `Express`, `Socket.IO` Multi-person Web Cheese Game 
   - [GitHub](https://github.com/kccarlos/myBookList) `AngularJS`, `Bootstrap`, `Flask`, `SQLite` Personal Booklist Web App 
   - [GitHub](https://github.com/kccarlos/forestgame) `Java` OOP Coursework - Commandline forest game 
