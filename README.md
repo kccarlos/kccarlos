@@ -4,7 +4,7 @@ I have been pursuing M.S.E in Computer Science at [JHU](https://www.jhu.edu/) si
 
 Previously, I received BEng from [HK PolyU](https://www.polyu.edu.hk/) and MPhil in Computer Science and Engineering from [HKUST](https://hkust.edu.hk/). I’m interested in full-stack development, computer vision, and web security.
 
-Here is my [Resume](https://docs.google.com/document/d/e/2PACX-1vRT9N9khNKOgk8EvqhV0-yeoi0C9WOjTHptLPeU34LwF0iiZpjVlXG9-0EGuLMo5si2rAdjso6eA3T5/pub). Some of my projects:
+Here is my [Resume](https://docs.google.com/document/d/e/2PACX-1vRthjLQBNecH9lYH7cWIvVu77p-al5F0ij5YpCvzSKnxTgp7R96ojP6daSBGR6vMw/pub). Some of my projects:
 
 ## 👨‍💻 Full Stack Development
    - [GitHub](https://github.com/kccarlos/eJay) `MongoDB`, `Express.JS`, `React`, `Node.JS` (MERN stack) JHU Used Items Trading Platform
