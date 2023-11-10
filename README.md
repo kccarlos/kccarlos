@@ -8,7 +8,6 @@ Here is my [Resume](https://docs.google.com/document/d/e/2PACX-1vQLalQOLAnQlzg1I
 
 ## 👨‍💻 Full Stack Development
    - [GitHub](https://github.com/kccarlos/eJay) `MongoDB`, `Express.JS`, `React`, `Node.JS` (MERN stack) JHU Used Items Trading Platform
-   - [GitHub](https://github.com/kccarlos/music_webapp_backend) | [API Doc](https://github.com/kccarlos/music_webapp_backend/blob/main/API%20docs.pdf) `Java`, `Springboot`, `MySQL` Backend for an indie music platform
    - [GitHub](https://github.com/Leafeon2233/spring-restapi-ecommerce/) | [Slides](https://docs.google.com/presentation/d/e/2PACX-1vTul62M0JfCAmehe5VzGVIv5hc_c98hjWLQAAd6kXpQLF26LCn_hGc_yHaTbYCqdYU8fn_crg_ZNuTa/pub) `Java`, `Springboot`, `Junit5`, `Mockito`, `Rest-assured` Testing the backend for an e-commerce platform
    - [GitHub](https://github.com/kccarlos/fullstack-course) `AngularJS`, `HTML`, `CSS` JHU Front-end development coursework
   - [GitHub](https://github.com/kccarlos/web-chess-game) `JavaScript`, `Node.JS`, `Express`, `Socket.IO` Multi-person Web Cheese Game 
